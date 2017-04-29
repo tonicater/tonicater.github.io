@@ -89,6 +89,10 @@ a:hover,
   color: #e98033;
   text-decoration: none;
 }
+.main-menu li a.active {
+  color: #e98033;
+  text-decoration: none;
+}
 a,
 button {
   outline: medium none;
@@ -200,6 +204,9 @@ label {
 .gray-bg {
 	background: #f6f6f6;
 }
+.lightorange-bg {
+  background: #feeade;
+}
 .transparent-bg {
 	background: transparent;
 }
@@ -249,7 +256,7 @@ label {
  .bg-1 {background: url(img/bg/1.jpg);}
  .bg-2 { background: url(img/bg/2.jpg);}
  .bg-3 { background: url(img/bg/3.jpg);}
- .bg-4 { background: url(img/bg/4.jpg);}
+ /*.bg-4 { background: url(img/bg/4.jpg);}*/
 
 .bg-1, .bg-2, .bg-3, .bg-4, .bg-5, .bg-6, .bg-7, .bg-8, .bg-9, .bg-10{
   background-attachment: fixed;
@@ -635,7 +642,7 @@ Header bookmark
   Slider three
 ---------------------------------------------------------*/
 .slider-style-5 {
-  background: rgba(0, 0, 0, 0) url("img/slider/4.jpg") repeat scroll center center / cover ;
+  /*background: rgba(0, 0, 0, 0) url("img/slider/4.jpg") repeat scroll center center / cover ;*/
   padding: 0;
   position: relative;
 }
@@ -1909,15 +1916,15 @@ sub.duration {
   21. About me
 ----------------------------------------*/
 .about-me-row {
-  background: rgba(0, 0, 0, 0) url("img/bg/8.jpg") repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("img/bg/about-banner.png") repeat scroll center center / cover ;
   padding: 200px 0;
 }
 .about-text-content h1 {
-  color: #fff;
+  color: #000;
 }
 .about-text-content > p {
-  color: #fff;
-  font-size: 12px;
+  color: #000;
+  font-size: 14px;
   letter-spacing: 1px;
   margin-bottom: 35px;
   text-transform: uppercase;
