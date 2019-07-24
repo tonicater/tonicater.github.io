@@ -888,6 +888,13 @@ a {
 	background-size: cover;
 }
 
+.hero-project_yeti {
+	background: url('../img/yeti-background.jpg');
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
 .single-project .content h2 {
 	font-size: .75rem;
 	letter-spacing: 3px;
