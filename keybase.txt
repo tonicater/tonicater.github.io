@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tonicater
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tonicater.me
+  * I am tonicater (https://keybase.io/tonicater) on keybase.
+  * I have a public key ASBMbzGXITNWb94HzjDpv3_5odgl-wBiR0kMSRaxFi3dPwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204c6f31972133566fde07ce30e9bf7ff9a1d825fb006247490c4916b1162ddd3f0a",
+      "host": "keybase.io",
+      "kid": "01204c6f31972133566fde07ce30e9bf7ff9a1d825fb006247490c4916b1162ddd3f0a",
+      "uid": "911aa220f96ebcbcdab0d360f8094c19",
+      "username": "tonicater"
+    },
+    "merkle_root": {
+      "ctime": 1568601890,
+      "hash": "463887d1f64004af06eac6d90ef67fb3543e31c18451c49c9a808d53aeea8848f35d51089dd6a68e70542fbcbe8afab7673f287c38355e5b5c334281a00d2988",
+      "hash_meta": "b06c54792c383a4225e108b460e92bd7fa9f986fec04c34850ad157436905071",
+      "seqno": 7430784
+    },
+    "service": {
+      "entropy": "yfVZGRpbFHLx0NbTb4As8pt+",
+      "hostname": "tonicater.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568601897,
+  "expire_in": 504576000,
+  "prev": "f90c48c0fa32ee921e05f6dd75f7bad8de04411a93b10b8bcdbe15de1f5ab811",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTG8xlyEzVm/eB84w6b9/+aHYJfsAYkdJDEkWsRYt3T8Kp3BheWxvYWTESpcCDsQg+QxIwPoy7pIeBfbddfe62N4EQRqTsQuLzb4V3h9auBHEIAfQkfpBZHc+ncTCFtSzouUEKpoLpGLaDVtFTtDjo0UaAgHCo3NpZ8RAJBlLyZw1syTUioHM0sSUp/O/tCK59lpmB29T1Xo1oqJTk+5MPFLsL3qm7LH41SAEPRJ5XjIFO/uNkCuotmK9DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILcYVXF/QUsq8i5h9YRbUnneWYD2qKOl5DCU/zAfGZKUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tonicater
+
+==================================================================
