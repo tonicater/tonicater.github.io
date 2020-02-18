@@ -5,7 +5,7 @@
 .btn-rounded:hover,
 .btn-square:hover,
 .share-links a:hover {
-	background: #c23;
+	background: #546cb3;
 }
 
 .portfolio-item:hover .portfolio-item-overlay {
@@ -30,7 +30,7 @@ a.mail-link:hover,
 .related-posts a:hover,
 a.reply-link:hover,
 .widget_categories ul li a:hover {
-	color: #c23;
+	color: #546cb3;
 }
 
 /*-----------------------------------------------------
@@ -91,7 +91,7 @@ a.mail-link,
 	color: #fff;
 }
 
-.portfolio-item-category, 
+.portfolio-item-category,
 .portfolio-item-title {
 	color: rgba(255, 255, 255, 0);
 }
@@ -156,7 +156,7 @@ a.reply-link,
 }
 
 /*-----------------------------------------------------
-#  background #111 
+#  background #111
 ------------------------------------------------------*/
 
 .main-footer,
@@ -250,7 +250,7 @@ form label,
 }
 
 /*-----------------------------------------------------
-#  background #eee 
+#  background #eee
 ------------------------------------------------------*/
 
 .share-links a {
@@ -278,4 +278,3 @@ form label,
 .project_02 .overview{
 	background: #f7f7f7;
 }
-
