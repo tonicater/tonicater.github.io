@@ -1070,6 +1070,18 @@ a {
 	background: #F06743;
 }
 
+.swatches .item:nth-of-type(1) .swatch,.business {
+	background: #17F3AF;
+}
+
+.swatches .item:nth-of-type(2) .swatch,.business {
+	background: #FF007A;
+}
+
+.swatches .item:nth-of-type(3) .swatch,.business {
+	background: #6E1AE6;
+}
+
 .swatches .item span {
 	display: block;
 	font-size: .75rem;
