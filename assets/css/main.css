@@ -874,11 +874,20 @@ a {
 ------------------------------------------------------*/
 
 .hero-single-project-full {
-	background: url('../img/image-placeholder_01_header.jpg');
+	background: url('../img/image-placeholder_01.jpg');
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
-	height: 100vh;
+	height: 80vh;
+	width: 100%;
+}
+
+.hero-project_ganjika {
+	background: url('../img/Ganjika_House_03.jpg');
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 80vh;
 	width: 100%;
 }
 
@@ -1050,15 +1059,15 @@ a {
 }
 
 .swatches .item:nth-of-type(1) .swatch {
-	background: #17F3AF;
+	background: #F9a05a;
 }
 
 .swatches .item:nth-of-type(2) .swatch {
-	background: #FF007A;
+	background: #293b53;
 }
 
 .swatches .item:nth-of-type(3) .swatch {
-	background: #6E1AE6;
+	background: #F06743;
 }
 
 .swatches .item span {
