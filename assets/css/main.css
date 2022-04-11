@@ -73,7 +73,7 @@ a {
 .btn-rounded,
 .btn-square {
 	border: none;
-	display: block;
+	display: inline-block;
 	font-size: .75rem;
 	height: 55px;
 	letter-spacing: 3px;
@@ -129,7 +129,7 @@ a {
     width: 100%;
 }
 
-.img-responsive{
+.img-responsive {
     display: block;
     max-width: 100%;
     height: auto;
@@ -180,8 +180,8 @@ a {
 }
 
 .navigation li {
-	list-style: none;
 	float: left;
+	list-style: none;
 	margin-left: 50px;
 }
 
@@ -1059,6 +1059,14 @@ a {
 }
 
 .swatches .item:nth-of-type(1) .swatch {
+	background: #fecb00;
+}
+
+.swatches .item:nth-of-type(2) .swatch {
+	background: #111111;
+}
+
+.swatches .item:nth-of-type(1) .swatch {
 	background: #F9a05a;
 }
 
@@ -1298,6 +1306,14 @@ a {
 	width: 60%;
 }
 
+ul.chefdrop {
+  margin-left: 15%;
+	font-size: 1rem;
+	font-weight: lighter;
+	line-height: 1.8;
+	width: 80%;
+}
+
 .project_05 .read-more-link i {
 	padding-left: 10px;
 }
@@ -1350,6 +1366,11 @@ a {
 	text-transform: uppercase;
 }
 
+.img-example{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 
 /* =============== = single-project_06 =============== */
 
@@ -1410,7 +1431,7 @@ a {
 	transition: all .3s linear;
 }
 
-.services-agency-item .content {
+.services-agency-item  {
 	position: absolute;
 	transform: translate(-50%, -50%);
 	top: 50%;
